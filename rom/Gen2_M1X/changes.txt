@@ -1,0 +1,90 @@
+
+                                 BIOS Changes History
+      
+
+General Information:
+
+        M1XKTxxA is the binary image. (BIOS)
+        NOTE: All changes carry forward.  That is, if a change is added in 01,it is also in 02, 03 etc.
+
+This file will be updated from the beginning with first Production BIOS release
+
+CHANGES for M1XKT63A / WU Version 1.0.0.3F
+1.Update for MS autopilot.
+
+CHANGES for M1XKT62A / WU Version 1.0.0.3E
+1.Enhancement to address security vulnerability LEN-113891.
+2.Enhancement to address security vulnerability CVE-2023-0286,CVE-2022-4304,CVE-2022-4203,CVE-2023-0215,CVE-2022-4450,CVE-2023-25493.
+
+CHANGES for M1XKT61A / WU Version 1.0.0.3D
+1.Enhancement to address security vulnerability LEN-99939,LEN-99942,LEN-105119,LEN-107838,LEN-113892.
+2.Enhancement to address security vulnerability CVE-2021-38578.
+
+CHANGES for M1XKT60A
+1.Enhancement to address security vulnerability.
+2.Update Lenovo Diagnostic V04.27.000 
+
+CHANGES for M1XKT59A
+1.Enhancement to address security vulnerability.
+2.Update Lenovo Diagnostic V04.24.000
+
+CHANGES for M1XKT58A
+1.Enhance system stability.
+
+CHANGES for M1XKT57A
+1.Enhancement to address security vulnerability.
+2.Update Lenovo Diagnostic V04.23.000
+
+CHANGES for M1XKT56A
+1.Enhancement to address security vulnerability.
+2.Update Lenovo Diagnostic V04.20.000
+
+CHANGES for M1XKT55A
+1.Enhance system stability.
+
+CHANGES for M1XKT54A
+1.TPM FW update.
+2.Enhance system stability.
+
+CHANGES for M1XKT53A
+1. Enhancement to address security vulnerability.
+
+CHANGES for M1XKT52A
+1. Enhancement to address security vulnerability CVE-2019-6173.
+
+CHANGES for M1XKT51A
+1. Fix SecureDoc software can't install on OPAL SSD.
+
+CHANGES for M1XKT50A
+1. Enhancement to address security vulnerability.
+
+CHANGES for M1XKT49A
+1. Fix factory issue.
+
+CHANGES for M1XKT48A
+1. Fix factory issue. 
+
+CHANGES for M1XKT47A
+1. Fix factory issue. 
+
+CHANGES for M1XKT46A
+1. Update Lenovo Diagnostic V04.08.003
+
+CHANGES for M1XKT43A
+1. Fix factory issue. 
+
+CHANGES for M1XKT35A
+1. Fix factory issue. 
+
+CHANGES for M1XKT34A
+1. Fix factory issue. 
+
+CHANGES for M1XKT33A
+1. Add win7 support.
+2. Improve the system stability.
+
+CHANGES for M1XKT32A
+1. Fix factory issue. 
+
+CHANGES for M1XKT31A
+1. Fix factory issue. 
